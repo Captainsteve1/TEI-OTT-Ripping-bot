@@ -40,8 +40,8 @@ RUN wget https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz 
     mv "${PWD}/ffmpeg" "${PWD}/ffprobe" /usr/local/bin/
 
 ENV LANG C.UTF-8
-ENV BOT_TOKEN 1835113477:AAHyx-mzepmgHAFt-YQrRlTelI8cRN3obh0
-ENV OWNER_ID -1001694051809
+ENV BOT_TOKEN 5505119448:AAFFrGC-h9n4YoD55vqLAXy7HmN6eI_rORs
+ENV OWNER_ID 2023056811
 #RUN wget https://www.python.org/ftp/python/3.9.4/Python-3.9.4.tgz && \
  #   tar xzf Python-3.9.4.tgz && \
   #  cd Python-3.9.4 && \
