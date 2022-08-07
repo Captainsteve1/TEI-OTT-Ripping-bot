@@ -23,7 +23,7 @@ RUN apt-get update && apt-get install -y software-properties-common && \
     # install coreutils
     coreutils aria2 jq pv gcc g++ \
     # install encoding tools
-    mediainfo \
+    sudo apt install -y mediainfo \
     # miscellaneous
     neofetch python3-dev git bash build-essential nodejs npm ruby \
     python-minimal locales python-lxml nginx gettext-base xz-utils \
