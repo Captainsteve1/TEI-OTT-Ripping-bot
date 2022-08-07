@@ -1,0 +1,39 @@
+{
+    "name": "Shell-Bot",
+    "description": "Telegram bot for executing shell commands",
+    "keywords": [
+      "telegram",
+      "bot",
+      "shell"
+    ],
+    "repository": "https://github.com/magneto261290/shell-bot",
+    "website": "https://github.com/magneto261290/shell-bot",
+    "success_url": "https://github.com/magneto261290/shell-bot/blob/master/README.md",
+    "stack": "container",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "Get your bot token by talking to @Botfather", 
+        "value": "1835113477:AAHyx-mzepmgHAFt-YQrRlTelI8cRN3obh0"
+      },
+      "OWNER_ID": {
+        "description": "Your telegram ID (not username)",
+        "value": "-1001694051809"
+      },
+      "RCLONE_CONFIG_BASE64": {
+        "description": "Your Rclone config encoded using Base64",
+        "required": false
+      },
+      "CREDENTIALS_LINK": {
+        "description": "enter permanent download link(maybe from index) of your credentials.json",
+        "required": false
+      },
+      "ACCOUNTS_FOLDER_LINK": {
+        "description": "enter permanent download link(maybe from index) of your accounts.zip",
+        "required": false
+      },
+      "LANG": {
+        "description": "Setting the encoding to UTF-8 Dont touch this",
+        "value": "C.UTF-8"
+      }
+    }
+}

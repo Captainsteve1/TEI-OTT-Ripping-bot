@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.funimation.com	TRUE	/	FALSE	1681462332	visid_incap_998813	chlBnj31QY6/lD/bp6EVCrbjWGIAAAAAQUIPAAAAAADxXshG9O57SaOKQ/wpfSfG
+.funimation.com	TRUE	/	FALSE	0	incap_ses_708_998813	1zw9AuApIWe5TLcJ3lLTCbbjWGIAAAAA3PTGwXMuCLllSRIETYeuwQ==
+.funimation.com	TRUE	/	FALSE	0	realTransaction	false
+.funimation.com	TRUE	/	FALSE	1713065535	_ga	GA1.2.1980346202.1649992639
+.funimation.com	TRUE	/	FALSE	1650079935	_gid	GA1.2.33795525.1649992639
+www.funimation.com	FALSE	/	FALSE	1681442303	region	US
+www.funimation.com	FALSE	/	TRUE	1681442663	csrftoken	idLGcdNTlb1ccyk28SAJXSsxSMeRGBVhAwxTUhZ1lsr20IQUgAvLiwHoo7ILmN4j
+www.funimation.com	FALSE	/	FALSE	0	LANGUAGE_PREFERENCE	en-us
+www.funimation.com	FALSE	/	TRUE	1651202680	sessionid	u5u8w9hnbh41d10a12g96unalx502ynl
+.funimation.com	TRUE	/	FALSE	0	nlbi_998813	3zHechhSczd6IahP7l8tKAAAAAA/dx9A4l65N9/OHzaluOkw
+.funimation.com	TRUE	/	FALSE	0	incap_ses_284_998813	eoeIQlK67nJQldXQGvnwA//jWGIAAAAAC166guyRHaPe6adRtilOTQ==
+.www.funimation.com	TRUE	/	FALSE	0	addOns	
+.www.funimation.com	TRUE	/	FALSE	0	region	US
+.www.funimation.com	TRUE	/	FALSE	1650424709	lastVisitedLogin	/
+.www.funimation.com	TRUE	/	FALSE	1651289061	src_user_id	29474965
+.www.funimation.com	TRUE	/	FALSE	1651289061	src_token	de9c47b67a73d4e5de50962acc19dbaea0a39db5
+.www.funimation.com	TRUE	/	FALSE	1651289061	PIsession	29474965
+.www.funimation.com	TRUE	/	FALSE	1651289061	rlildup	us%3Atrue%3Aen%3Aweb%3Aus_free
+www.funimation.com	FALSE	/	TRUE	1681529080	forum_token	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkZ1blVzZXIyOTQ3NDk2NSIsImVtYWlsIjoid21taWlpODlAZ21haWwuY29tIiwiaWQiOjI5NDc0OTY1fQ.l5vsKZOBSkQps7Dr5HYoTWFFXEGjrUQvyYKRl_d7T3U
+.www.funimation.com	TRUE	/	FALSE	0	userState	Free
+.www.funimation.com	TRUE	/	FALSE	0	subscriptionMethod	Venue
+www.funimation.com	FALSE	/	FALSE	1684121067	_evidon_consent_cookie	{"consent_date":"2022-04-15T03:24:27.958Z","consent_type":1}
+.funimation.com	TRUE	/	FALSE	1657769067	_gcl_au	1.1.528530703.1649993068
+.funimation.com	TRUE	/	TRUE	1657769535	_rdt_uuid	1649993068921.e2f7b3a6-5184-42d3-ab4e-a0eb9bf985b5
+.funimation.com	TRUE	/	FALSE	1657769537	_fbp	fb.1.1649993069441.196113104
+.funimation.com	TRUE	/	FALSE	0	nlbi_998813_2403640	XUUhRrPCSDexLNFG7l8tKAAAAAD/go7wuo30gG9jRspxS1B2
